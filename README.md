@@ -1,4 +1,4 @@
-# اطلاعیه
+# 3NET VIP
 نسخه 3NET VPN در برنامه Xiaomi GetApps قرار گرفته است.
 
 # لینک دانلود برنامه GetApps : 
